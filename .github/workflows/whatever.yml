@@ -1,6 +1,6 @@
 name: Node CI
 
-on: push zzz
+on: push
 
 jobs:
   build:
